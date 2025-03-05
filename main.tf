@@ -8,3 +8,5 @@ resource "aws_instance" "ec2" {
   key_name= "keypair"
 
 }
+
+//hi
